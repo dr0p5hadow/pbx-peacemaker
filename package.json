@@ -1,0 +1,19 @@
+{
+  "name": "pbx-peacemaker",
+  "version": "0.0.1",
+  "description": "Call flooder based on nodejs and twilio api",
+  "bin":{
+    "pmc": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr0p5hadow/pbx-peacemaker.git"
+  },
+  "keywords": ["call flood", "twilio call flooder", "call flodder", "scambait", "scambait tools", "scam baiting"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dr0p5hadow/pbx-peacemaker/issues"
+  },
+  "homepage": "https://github.com/dr0p5hadow/pbx-peacemaker#readme"
+}
